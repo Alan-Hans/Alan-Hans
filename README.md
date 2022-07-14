@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Alan-Hans 
-- 👀 I’m interested in beatiful and practical things, and some times not practical too.
-- 🌱 I’m currently learning to programm.
-- 💞️ I’m looking to collaborate on with differents peoples and differents teams.
+- 👋 Hi, I’m Alan Hans Bitterlich Koning.
+I am a young, optimistic, sporty and responsible professional, who wishes to develop my knowledge as an engineer, project manager, blockchain, big data, data analysis, data scientist and decision-making consultant. 
+In addition, I develop myself in entrepreneurship and startups of technological type, with the experience of creation and management of 3 companies. 
+I maintain good interpersonal relationships and have management and leadership skills, at different levels and environments.
+
+-DATA SCIENTIST IS MY FIELD. :)
+
 - 📫 How to reach me, send me an email to: alan.bitterlich.k@gmail.com
 
-<!---
-Alan-Hans/Alan-Hans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Portafolio
 # Portafolio
