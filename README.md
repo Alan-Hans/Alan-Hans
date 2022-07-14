@@ -8,4 +8,3 @@ I maintain good interpersonal relationships and have management and leadership s
 - 📫 How to reach me, send me an email to: alan.bitterlich.k@gmail.com
 
 # Portafolio
-# Portafolio
